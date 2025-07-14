@@ -4,6 +4,10 @@
 
 The Conference Expense Planner is a front-end application designed to help users estimate and plan expenses for hosting a conference at a convention center. The app provides an interactive interface for selecting rooms, add-ons, and meals, and calculates pricing based on user selections.
 
+## Live Demo
+
+You can try the app online at: [https://brendanbadhe.github.io/Conference-Expense-Planner/](https://brendanbadhe.github.io/Conference-Expense-Planner/)
+
 ## Features
 
 - **Landing Page**: Engages users with a company introduction, background image, company name, and a "Get Started" button to enter the main application.
